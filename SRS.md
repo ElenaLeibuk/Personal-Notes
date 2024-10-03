@@ -96,6 +96,10 @@
 
 ![Окно поиска](https://github.com/ElenaLeibuk/Personal-Notes/blob/master/mockups/Search.png) 
 
+Меню. 
+
+![Меню](https://github.com/ElenaLeibuk/Personal-Notes/blob/master/mockups/Menu.png) 
+
 <a name="user_specifications"></a>
 ### **2.3 Характеристики пользователей:**
 
