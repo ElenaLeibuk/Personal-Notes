@@ -70,31 +70,31 @@
 ## 2.2 Интерфейс пользователя
 Окно загрузки приложения.  
 
-![Окно загрузки приложения]()  
+![Окно загрузки приложения](https://github.com/ElenaLeibuk/Personal-Notes/blob/master/mockups/Loading.png)  
 
 Окно регистрации нового пользователя.  
 
-![Окно регистрации нового пользователя]( )
+![Окно регистрации нового пользователя](https://github.com/ElenaLeibuk/Personal-Notes/blob/master/mockups/Registration.png)
 
 Окно входа для зарегистрированного пользователя.  
 
-![Окно входа для зарегистрированного пользователя]( )
+![Окно входа для зарегистрированного пользователя](https://github.com/ElenaLeibuk/Personal-Notes/blob/master/mockups/Sing.png)
 
 Главное окно приложения.
 
-![Главное окно приложения]( )
+![Главное окно приложения](https://github.com/ElenaLeibuk/Personal-Notes/blob/master/mockups/Note%20List.png)
 
 Окно создания новой заметки. 
 
-![Окно создания новой заметки]( ) 
+![Окно создания новой заметки](https://github.com/ElenaLeibuk/Personal-Notes/blob/master/mockups/NoteSpace.png) 
 
 Окно избранное. 
 
-![Окно избранное](https://github.com/sunshine1uvv/SellCar/blob/master/docs/mockups/png/favorites.png)
+![Окно избранное](https://github.com/ElenaLeibuk/Personal-Notes/blob/master/mockups/Favorites.png)
 
 Окно поиска. 
 
-![Окно поиска]( ) 
+![Окно поиска](https://github.com/ElenaLeibuk/Personal-Notes/blob/master/mockups/Search.png) 
 
 <a name="user_specifications"></a>
 ### **2.3 Характеристики пользователей:**
