@@ -1,6 +1,6 @@
 # Диаграмма классов  
 
-![Диаграмма классов]() 
+![Диаграмма классов](https://github.com/ElenaLeibuk/Personal-Notes/blob/master/image/ClassDiagram.png) 
 
 # Глоссарий
 

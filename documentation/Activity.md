@@ -8,12 +8,12 @@
 
 ### 1. Вход в аккаунт<a name="1"></a>
 
-![Вход в аккаунт]()
+![Вход в аккаунт](https://github.com/ElenaLeibuk/Personal-Notes/blob/master/image/signInDiagram.png)
 
 ### 2. Регистрация<a name="2"></a>
 
-![Регистрация]()
+![Регистрация](https://github.com/ElenaLeibuk/Personal-Notes/blob/master/image/registerDiagram.png)
   
 ### 3. Создание события<a name="3"></a>
 
-![Создание события]()
+![Создание события](https://github.com/ElenaLeibuk/Personal-Notes/blob/master/image/orderDiagram.png)
