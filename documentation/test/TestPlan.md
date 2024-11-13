@@ -135,7 +135,7 @@
 
 ## Представление результатов
 
-Результаты представлены в документе ["Результаты тестирования"]().
+Результаты представлены в документе ["Результаты тестирования"](https://github.com/ElenaLeibuk/Personal-Notes/blob/master/documentation/test/TestResult.md).
 
 <a name="conclusion"/>
 
